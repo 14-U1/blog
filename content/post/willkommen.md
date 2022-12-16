@@ -1,8 +1,8 @@
 ---
 title: "Willkommen!"
-date: 2022-12-16T15:12:33+01:00
+date: 2022-12-16
 type: post
-author: Moritz Bendfeld
+author: Moritz
 tags: ["news"]
 ---
 

@@ -2,3 +2,53 @@ baseURL = "https://14-U1.github.io/blog/"
 languageCode = "de"
 title = "Informatik Blog 14-U1"
 theme = "beautifulhugo"
+pygmentsStyle = "trac"
+pygmentsUseClasses = true
+pygmentsCodeFences = true
+pygmentsCodefencesGuessSyntax = true
+
+[Params]
+  homeTitle = "Startseite" # Set a different text for the header on the home page
+  subtitle = "Build a beautiful and simple website in minutes"
+  mainSections = ["post","posts"]
+  #logo = "img/logo.jpeg" # Expecting square dimensions
+  favicon = "img/favicon.ico"
+  dateFormat = "2 Januar, 2006"
+  commit = false
+  rss = true
+  comments = true
+  readingTime = true
+  wordCount = false
+  useHLJS = true
+  socialShare = false
+  delayDisqus = true
+  showRelatedPosts = false
+  hideAuthor = false
+  # gcse = "https://cse.google.com/cse.js?cx=72fe7924919204a4d" # Get your code from google.com/cse. Make sure to go to "Look and Feel" and change Layout to "Full Width" and Theme to "Classic"
+  
+#[[Params.bigimg]]
+  src = "img/triangle.jpg"
+#  desc = "Triangle"
+#[[Params.bigimg]]
+#  src = "img/sphere.jpg"
+#  desc = "Sphere"
+#  # position: see values of CSS background-position.
+#  position = "center top"
+#[[Params.bigimg]]
+#  src = "img/hexagon.jpg"
+#  desc = "Hexagon"
+
+[Author]
+  # Set only your "username" for default hosts and full URLs otherwise (e.g., "https://MyGitLab.org/username")
+  name = "@Moritzuff @Gurkinator1 @Sqyyy"
+  discord = "https://discord.gg/MJuyCMHQwg"
+
+[[menu.main]]
+    name = "Startseite"
+    url = ""
+    weight = 1
+
+[[menu.main]]
+    name = "Tags"
+    url = "tags"
+    weight = 3

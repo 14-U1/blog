@@ -1,4 +1,0 @@
-baseURL = "http://example.org/"
-languageCode = "de"
-title = "Informatik Blog 14-U1"
-theme = "beautifulhugo"
