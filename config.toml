@@ -7,6 +7,7 @@ pygmentsStyle = "trac"
 pygmentsUseClasses = true
 pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
+summaryLength = 5
 
 
 [Params]
@@ -26,7 +27,6 @@ pygmentsCodefencesGuessSyntax = true
   delayDisqus = true
   showRelatedPosts = false
   hideAuthor = false
-  preview = false
   # gcse = "https://cse.google.com/cse.js?cx=72fe7924919204a4d" # Get your code from google.com/cse. Make sure to go to "Look and Feel" and change Layout to "Full Width" and Theme to "Classic"
   
 #[[Params.bigimg]]

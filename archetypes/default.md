@@ -1,9 +1,9 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
-draft: true
+draft: false
 type: post
-author: autor
-tags: ["example", "math"]
+author: ENTER_AUTOR
+tags: ["example", "example2"]
 ---
 
