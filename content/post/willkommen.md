@@ -1,9 +1,9 @@
 ---
 title: "Willkommen!"
-date: 2022-12-16
+date: 2022-12-16T13:00:00+01:00
 type: post
 author: Moritz
-tags: ["news"]
+tags: ["News"]
 ---
 
 # Guten Abend liebe Leser:innen,

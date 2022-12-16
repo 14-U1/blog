@@ -1,21 +1,23 @@
 baseURL = "https://14-U1.github.io/blog/"
 languageCode = "de"
-title = "Informatik Blog 14-U1"
+defaultContentLanguage = "de"
+title = "14-U1"
 theme = "beautifulhugo"
 pygmentsStyle = "trac"
 pygmentsUseClasses = true
 pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
 
+
 [Params]
-  homeTitle = "Startseite" # Set a different text for the header on the home page
-  subtitle = "Build a beautiful and simple website in minutes"
+  homeTitle = "Informatik Blog" # Set a different text for the header on the home page
+  subtitle = "Immer das neuste zu Hausaufgaben, Klausuren uvm."
   mainSections = ["post","posts"]
-  #logo = "img/logo.jpeg" # Expecting square dimensions
+  logo = "img/logo.jpeg" # Expecting square dimensions
   favicon = "img/favicon.ico"
-  dateFormat = "2 Januar, 2006"
+  dateFormat = "2 January, 2006"
   commit = false
-  rss = true
+  rss = false
   comments = true
   readingTime = true
   wordCount = false
@@ -27,7 +29,7 @@ pygmentsCodefencesGuessSyntax = true
   # gcse = "https://cse.google.com/cse.js?cx=72fe7924919204a4d" # Get your code from google.com/cse. Make sure to go to "Look and Feel" and change Layout to "Full Width" and Theme to "Classic"
   
 #[[Params.bigimg]]
-  src = "img/triangle.jpg"
+#  src = "img/triangle.jpg"
 #  desc = "Triangle"
 #[[Params.bigimg]]
 #  src = "img/sphere.jpg"
@@ -38,15 +40,23 @@ pygmentsCodefencesGuessSyntax = true
 #  src = "img/hexagon.jpg"
 #  desc = "Hexagon"
 
+
+
+
 [Author]
   # Set only your "username" for default hosts and full URLs otherwise (e.g., "https://MyGitLab.org/username")
-  name = "@Moritzuff @Gurkinator1 @Sqyyy"
+  name = "@Moritzuff @Gurkinator1 @Sqyyy-jar"
   discord = "https://discord.gg/MJuyCMHQwg"
 
 [[menu.main]]
     name = "Startseite"
-    url = ""
+    url = "https://14-u1.github.io/"
     weight = 1
+
+[[menu.main]]
+    name = "Blog"
+    url = ""
+    weight = 2
 
 [[menu.main]]
     name = "Tags"
