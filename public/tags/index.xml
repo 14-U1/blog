@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on 14-U1</title>
+    <link>https://14-U1.github.io/blog/tags/</link>
+    <description>Recent content in Tags on 14-U1</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de</language>
+    <lastBuildDate>Fri, 16 Dec 2022 13:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="https://14-U1.github.io/blog/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>News</title>
+      <link>https://14-U1.github.io/blog/tags/news/</link>
+      <pubDate>Fri, 16 Dec 2022 13:00:00 +0100</pubDate>
+      
+      <guid>https://14-U1.github.io/blog/tags/news/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

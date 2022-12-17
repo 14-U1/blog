@@ -19,6 +19,6 @@ dies ist unser erster Blogbeitrag, indem wir euch einige grundlegende Dinge mitt
 
 Erstmal wollen wir uns recht herzlich für das positive Feedback bedanken, welches wir direkt nach der, zu dem Zeitpunkt, noch sehr instabilen Version der Website bekommen haben <3, wir werden die Website zu 100% stetig optimieren, damit *ihr* wunderbar durch das (Informatik-)Abitur kommt. Falls ihr Fragen, Anregungen oder Wünsche habt - wir sind immer erreichbar.
 
-Mit liebsten Grüßen,
+Beste Grüße,
 
 Felix, Moritz und Flo
